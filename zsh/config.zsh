@@ -26,7 +26,7 @@ setopt PROMPT_SUBST
 setopt CORRECT
 setopt COMPLETE_IN_WORD
 setopt NO_BANG_HISTORY
-setopt IGNORE_EOF
+#setopt IGNORE_EOF -- uncomment to prevent ctrl-d logout
 # adds history
 setopt APPEND_HISTORY
 # adds history incrementally and share it across sessions
