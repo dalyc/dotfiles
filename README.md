@@ -1,5 +1,4 @@
-# carlos' dotfiles  [![DevOps By Rultor.com][rb]][rb] [![Build Status][tb]][tp]
-> Runs on Linux and OSX. Configurations for ZSH, SublimeText 3, Java, Ruby, Terminals and others.
+# dalyc dotfiles
 
 ![screenshot][scrn]
 
@@ -21,8 +20,6 @@ structured the project accordingly.
 
 If you're interested in the philosophy behind why projects like these are
 awesome, you might want to [read my post on the subject][post].
-
-[post]: http://carlosbecker.com/posts/dotfiles-are-meant-to-be-forked/
 
 ## install
 
