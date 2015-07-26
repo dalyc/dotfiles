@@ -1,13 +1,5 @@
 # dalyc dotfiles
 
-![screenshot][scrn]
-
-[rb]: http://www.rultor.com/b/caarlos0/dotfiles
-[rp]: http://www.rultor.com/p/caarlos0/dotfiles
-[tb]: https://travis-ci.org/caarlos0/dotfiles.svg?branch=master
-[tp]: https://travis-ci.org/caarlos0/dotfiles
-[scrn]: https://raw.githubusercontent.com/caarlos0/dotfiles/master/screenshot.png
-
 ## dotfiles
 
 Your dotfiles are how you personalize your system. These are mine.
