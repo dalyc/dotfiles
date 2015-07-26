@@ -1,4 +1,0 @@
-#!/bin/sh
-if [ ! -z "$1" ]; then
-  cd "$GOPATH/src/github.com/$1"
-fi
