@@ -1,0 +1,3 @@
+[submodule "vim/vimfiles"]
+	path = vim/vimfiles
+	url = https://github.com/dalyc/vimfiles.git
