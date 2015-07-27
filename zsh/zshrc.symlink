@@ -36,7 +36,3 @@ unset config_files
 # want in your public, versioned repo.
 [[ -a ~/.localrc ]] && source ~/.localrc
 
-/usr/bin/keychain --agents ssh,gpg ~/.ssh/id_rsa
-. ~/.keychain/hippo-sh
-. ~/.keychain/hippo-sh-gpg
-
